@@ -1,1 +1,1 @@
-# golden__development
+Site layout from the template
